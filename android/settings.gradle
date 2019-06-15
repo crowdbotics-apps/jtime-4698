@@ -1,0 +1,3 @@
+rootProject.name = 'jtime_4698'
+
+include ':app'
